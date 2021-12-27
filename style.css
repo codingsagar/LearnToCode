@@ -178,6 +178,10 @@ header button:hover {
   margin: auto;
 }
 
+a{
+  text-decoration: none;
+}
+
 .cards {
   display: flex;
   justify-content: center;
