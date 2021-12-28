@@ -27,6 +27,7 @@ nav ul {
   display: flex;
   font-size: 18px;
   position: relative;
+  user-select: none;
 }
 
 nav ul li {
